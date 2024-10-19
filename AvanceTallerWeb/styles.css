@@ -1,0 +1,171 @@
+
+body{
+  background-color: #110e0e; /* Set background color for the whole body */
+  color: #fafae4; 
+  border-color: red;
+}
+
+
+title {
+  color: #00698f; 
+  font-size: 24px; 
+  font-weight: bold;
+
+} 
+
+.container {
+  max-width: 1280px; /* ancho máximo del contenedor */
+  font-family: "Segoe UI";
+  /*margin: 40px 20px 40px 20px; /* margen superior e inferior, y margen izquierdo de 20px */
+  background-color: #050505;
+  margin: 40px auto; /* margen superior e inferior, y margen automático izquierdo y derecho */
+  box-sizing: border-box; /* incluye márgenes y bordes en el ancho del contenedor */
+  padding: 20px; /* espacio entre el contenido y el borde del contenedor */
+ /* background-color: #9c6b6b; /* color de fondo del contenedor */
+  border: 2px solid #ddd; /* borde del contenedor */
+}
+
+.h1 {
+
+  font-size: 36px; /* tamaño de fuente grande */
+  font-weight: bold; /* negrita */
+  margin-bottom: 10px; /* espacio entre el título y el contenido */
+}
+
+.p1 {
+  font-weight: bold; /* negrita */
+}
+
+.container2 {
+  max-width: 1280px; /* ancho máximo del contenedor */
+  margin-top: 40px; /* espacio entre el contenedor principal y el footer */
+  background-color: #1c1c12; /* fondo oscuro para el footer */
+  padding: 20px; /* espacio interior del footer */
+  display: flex; /* para alinear horizontalmente la lista de imágenes */
+  flex-wrap: wrap; /* para que las imágenes se ajusten a la pantalla */
+  justify-content: left; /* para centrar horizontalmente la lista de imágenes */
+
+  /* margin-left: 20px; /* agregar un margen a la izquierda del contenedor */
+  /* margin-right: 20px; /* agregar un margen a la derecha del contenedor */
+
+  margin: 40px auto; /* margen superior e inferior, y margen automático izquierdo y derecho */
+  box-sizing: border-box; /* incluye márgenes y bordes en el ancho del contenedor */
+
+
+}
+
+
+.container2 ul {
+  list-style: none; /* quitar estilo de lista */
+  margin: 0; /* quitar margen de la lista */
+  padding: 0; /* quitar padding de la lista */
+}
+
+.container2 li {
+
+  display: list-item; /* Mantiene la lista */
+  list-style: none; /* Elimina los puntos de la lista */
+  font-family: Arial, sans-serif; /* fuente Arial o sans-serif */
+  font-size: 16px; /* tamaño de fuente */
+  color: #fcfcf1; /* color del texto */
+  margin: 10px; /* espacio entre las imágenes */
+  font-weight: bold; /* texto en negrita */
+
+
+}
+
+.container2 img {
+
+  margin: 0 auto; /* Centra la imagen horizontalmente */
+  width: 140px; /* ancho de las imágenes */
+  height: 120px; /* alto de las imágenes */
+  border-radius: 8%; /* redondear las esquinas de las imágenes */
+  /*margin: 10px; /* espacio entre las imágenes */
+
+
+}
+
+.container2 p {
+  text-align: center; /* Centra el texto horizontalmente */
+  margin-top: 5px; /* Agrega un margen superior para separar el texto de la imagen */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.container3 {
+  max-width: 1280px; /* ancho máximo del contenedor */
+
+  margin-top: 40px; /* espacio entre el contenedor principal y el footer */
+  background-color: #050505; /* fondo claro para el footer */
+  padding: 50px; /* espacio interior del footer */
+  display: flex; /* para alinear horizontalmente la lista de imágenes */
+  flex-wrap: wrap; /* para que las imágenes se ajusten a la pantalla */
+  justify-content: left; /* para centrar horizontalmente la lista de imágenes */
+
+  /* margin-left: 20px; /* agregar un margen a la izquierda del contenedor */
+  /* margin-right: 20px; /* agregar un margen a la derecha del contenedor */
+
+  margin: 40px auto; /* margen superior e inferior, y margen automático izquierdo y derecho */
+  box-sizing: border-box; /* incluye márgenes y bordes en el ancho del contenedor */
+
+}
+
+.container3 ul {
+  list-style: none; /* quitar estilo de lista */
+  margin: 0; /* quitar margen de la lista */
+  padding: 0; /* quitar padding de la lista */
+
+}
+
+.container3 li {
+
+  display: list-item; /* Mantiene la lista */
+  list-style: none; /* Elimina los puntos de la lista */
+  font-family: Arial, sans-serif; /* fuente Arial o sans-serif */
+  font-size: 16px; /* tamaño de fuente */
+  color: #fcfcf1; /* color del texto */
+  margin: 45px 26px ; /* Espacio vertical: 26px, espacio horizontal: 0px */
+  font-weight: bold; /* texto en negrita */
+  text-align: center; /* Centra el texto horizontalmente */
+
+
+}
+
+.container3 img {
+
+  margin: 0 auto; /* Centra la imagen horizontalmente */
+  width: 242.5px; /* ancho de las imágenes */
+  height: 190px; /* alto de las imágenes */
+  border-radius: 7%; /* redondear las esquinas de las imágenes */
+  /*margin: 10px; /* espacio entre las imágenes */
+
+}
+
+.container3 P  {
+  /* text-align: center; /* Centra el texto horizontalmente */
+  margin-top: 5px; /* Agrega un margen superior para separar el texto de la imagen */
+margin
+}
+
+a {
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
